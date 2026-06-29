@@ -1,0 +1,6 @@
+{
+  "name": "MengAiRec",
+  "description": "MengAiRec Ultimate Engine - AI Powered voice recorder and smart transcriber with customized advanced templates, mindmaps, action items, and context dialogue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
